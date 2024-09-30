@@ -26,7 +26,7 @@ A simple Java-based console game where the user attempts to guess a randomly gen
 1. Download and install Java from the [official site](https://www.oracle.com/java/technologies/javase-downloads.html) if it's not already installed.
 2. Clone or download the source code.
    ```bash
-   git clone https://github.com/your-username/number-guessing-game.git
+   git clone https://github.com/Yashapradha/Number-Guessing-game.git
    ```
 3. Navigate to the project directory.
    ```bash
